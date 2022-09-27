@@ -47,7 +47,12 @@
 </p>
 
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=asixc&theme=monokai&show_icons=true&locale=en&layout=compact" alt="asixc" />
+<p align="center">
+<img style="margin-button=20px" align="center" src="https://github-readme-stats.vercel.app/api?username=asixc&theme=monokai&show_icons=true&locale=en&layout=compact" alt="asixc" /> 
+</p>
+
+<br />
+
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asixc&theme=monokai&show_icons=true&locale=en&layout=compact" alt="asixc" />
 </p>
