@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Jose Alberto</h1>
+<h1 align="center">Hi there👋, I'm Jose Alberto</h1>
 <h3 align="center">A passionate web developer from Spain</h3>
 
 - 🔭 I’m currently working on [Amaris](https://www.amaris.com/)
