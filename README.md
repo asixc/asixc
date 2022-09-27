@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Jose Alberto</h1>
 <h3 align="center">A passionate web developer from Spain</h3>
 
-- 🔭 I’m currently working on [Amaris](https://www.amaris.com/)
+- 🔭 I’m currently working on [Amaris](https://www.amaris.com/) as Java Backend developer.
 
 - 🌱 I’m currently learning **Python, Spring cloud, React and Devops**
 
