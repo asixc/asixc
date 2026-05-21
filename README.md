@@ -193,3 +193,10 @@ Experiments and projects around event sourcing, CQRS and scalable backend system
 ## Personal website
 
 🌍 https://jotxee.dev
+
+---
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=asixc&theme=monokai" alt="asixc streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asixc&theme=monokai" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asixc&theme=monokai" alt="most commit language" />
+</p>
