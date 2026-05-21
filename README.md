@@ -37,10 +37,13 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bootstrap" alt="bootstrap" width="40" height="40" /></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/vuedotjs" alt="vuejs" width="40" height="40" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react" alt="react" width="40" height="40" /></a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/astro" alt="astro" width="40" height="40" /></a>
 </p>
 
 <h4 align="left">Testing</h4>
 <p align="left">
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/junit5" alt="junit5" width="40" height="40" /></a>
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat&logoColor=white" alt="mockito" height="28" />
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /></a>
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" /></a>
 </p>
@@ -68,11 +71,12 @@
 </p>
 
 <p align="center">
-<img style="margin-bottom:20px" align="center" src="https://github-readme-stats.vercel.app/api?username=asixc&theme=monokai&show_icons=true&locale=en&layout=compact" alt="asixc" />
+  <img src="https://streak-stats.demolab.com/?user=asixc&theme=monokai" alt="asixc streak" />
 </p>
 
 <br />
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asixc&theme=monokai&show_icons=true&locale=en&layout=compact" alt="asixc" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asixc&theme=monokai" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asixc&theme=monokai" alt="most commit language" />
 </p>
